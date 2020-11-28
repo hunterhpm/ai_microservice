@@ -1,0 +1,16 @@
+[
+  {
+    "table": "sys_camera",
+    "records": [
+      {
+        "id": 1,
+        "camera_name": "CAM1",
+        "updated_on":"2020-01-01 00:00:00",
+        "camera_type": "UVC",
+        "frame_rate": "PROD",
+        "resolution": 1.5,
+        "exposure": "1"
+      }
+    ]
+  }
+]

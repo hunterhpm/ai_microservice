@@ -1,0 +1,108 @@
+[
+  {
+    "table": "sys_camera",
+    "records": [
+      {
+        "id": 1,
+        "camera_id": "CAM1",
+        "updated_on":"2020-01-01 00:00:00",
+        "camera_type": "This is a test"
+      },
+      {
+        "id": 2,
+        "camera_id": "CAM2",
+        "updated_on":"2020-01-01 00:00:00",
+        "camera_type": "This is a test"
+      },
+      {
+        "id": 3,
+        "camera_id": "CAM3",
+        "updated_on":"2020-01-01 00:00:00",
+        "camera_type": "This is a test"
+      },
+      {
+        "id": 4,
+        "camera_id": "CAM4",
+        "updated_on":"2020-01-01 00:00:00",
+        "camera_type": "This is a test"
+      },
+      {
+        "id": 5,
+        "camera_id": "CAM5",
+        "updated_on":"2020-01-01 00:00:00",
+        "camera_type": "This is a test"
+      },
+      {
+        "id": 6,
+        "camera_id": "CAM6",
+        "updated_on":"2020-01-01 00:00:00",
+        "camera_type": "This is a test"
+      }
+    ]
+  },
+  {
+    "table": "ai_agent",
+    "records": [
+      {
+        "id": 1,
+        "camera_id": 1,
+        "model_id":1,
+        "description": "This is the demo on the semi-conductor dataset",
+        "environment": "PROD",
+        "user": "NULL",
+        "project": "Semi-Conductor",
+        "session": "NULL"
+      },
+      {
+        "id": 2,
+        "camera_id": 2,
+        "model_id":1,
+        "description": "This is the demo on the semi-conductor dataset",
+        "environment": "PROD",
+        "user": "NULL",
+        "project": "Semi-Conductor",
+        "session": "NULL"
+      },
+      {
+        "id": 3,
+        "camera_id": 3,
+        "model_id":1,
+        "description": "This is the demo on the semi-conductor dataset",
+        "environment": "PROD",
+        "user": "NULL",
+        "project": "Semi-Conductor",
+        "session": "NULL"
+      },
+      {
+        "id": 4,
+        "camera_id": 4,
+        "model_id":1,
+        "description": "This is the demo on the semi-conductor dataset",
+        "environment": "PROD",
+        "user": "NULL",
+        "project": "Semi-Conductor",
+        "session": "NULL"
+      },
+      {
+        "id": 5,
+        "camera_id": 5,
+        "model_id":1,
+        "description": "This is the demo on the semi-conductor dataset",
+        "environment": "PROD",
+        "user": "NULL",
+        "project": "Semi-Conductor",
+        "session": "NULL"
+      },
+      {
+        "id": 6,
+        "camera_id": 6,
+        "model_id":1,
+        "description": "This is the demo on the semi-conductor dataset",
+        "environment": "PROD",
+        "user": "NULL",
+        "project": "Semi-Conductor",
+        "session": "NULL"
+      }
+    ]
+  }
+]

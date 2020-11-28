@@ -1,0 +1,6 @@
+{"InferenceDetails":
+	{	
+		"CAM1": {"SpotName":"Broken_leg", "ImageSize(H,W,C)":[256,256,3], "Thresold":0.5, "weight_file":"weights_Broken_leg.hdf5"}		
+	},
+"DATA_DIR": "./data_SC"
+}

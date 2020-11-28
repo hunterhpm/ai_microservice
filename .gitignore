@@ -1,0 +1,4 @@
+.idea
+/data_SC
+*.pyc
+__pycache/
